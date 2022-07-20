@@ -1,0 +1,8 @@
+D:\c#project\Foor_Loop\Foor_Loop\bin\Debug\Foor_Loop.exe.config
+D:\c#project\Foor_Loop\Foor_Loop\bin\Debug\Foor_Loop.exe
+D:\c#project\Foor_Loop\Foor_Loop\bin\Debug\Foor_Loop.pdb
+D:\c#project\Foor_Loop\Foor_Loop\obj\Debug\Foor_Loop.csproj.AssemblyReference.cache
+D:\c#project\Foor_Loop\Foor_Loop\obj\Debug\Foor_Loop.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Foor_Loop\Foor_Loop\obj\Debug\Foor_Loop.csproj.CoreCompileInputs.cache
+D:\c#project\Foor_Loop\Foor_Loop\obj\Debug\Foor_Loop.exe
+D:\c#project\Foor_Loop\Foor_Loop\obj\Debug\Foor_Loop.pdb

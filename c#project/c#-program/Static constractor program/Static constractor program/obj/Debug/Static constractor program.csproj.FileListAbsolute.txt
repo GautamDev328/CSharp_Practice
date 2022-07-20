@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Static constractor program\Static constractor program\bin\Debug\Static constractor program.exe.config
+D:\c#project\c#-program\Static constractor program\Static constractor program\bin\Debug\Static constractor program.exe
+D:\c#project\c#-program\Static constractor program\Static constractor program\bin\Debug\Static constractor program.pdb
+D:\c#project\c#-program\Static constractor program\Static constractor program\obj\Debug\Static constractor program.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Static constractor program\Static constractor program\obj\Debug\Static constractor program.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Static constractor program\Static constractor program\obj\Debug\Static constractor program.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Static constractor program\Static constractor program\obj\Debug\Static constractor program.exe
+D:\c#project\c#-program\Static constractor program\Static constractor program\obj\Debug\Static constractor program.pdb

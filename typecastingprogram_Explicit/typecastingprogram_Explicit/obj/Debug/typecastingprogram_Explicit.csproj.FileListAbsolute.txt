@@ -1,0 +1,8 @@
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\bin\Debug\typecastingprogram_Explicit.exe.config
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\bin\Debug\typecastingprogram_Explicit.exe
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\bin\Debug\typecastingprogram_Explicit.pdb
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\obj\Debug\typecastingprogram_Explicit.csproj.AssemblyReference.cache
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\obj\Debug\typecastingprogram_Explicit.csproj.SuggestedBindingRedirects.cache
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\obj\Debug\typecastingprogram_Explicit.csproj.CoreCompileInputs.cache
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\obj\Debug\typecastingprogram_Explicit.exe
+D:\c#project\typecastingprogram_Explicit\typecastingprogram_Explicit\obj\Debug\typecastingprogram_Explicit.pdb

@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\obj\Debug\Palindrome_program.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\obj\Debug\Palindrome_program.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\obj\Debug\Palindrome_program.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\bin\Debug\Palindrome_program.exe.config
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\bin\Debug\Palindrome_program.exe
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\bin\Debug\Palindrome_program.pdb
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\obj\Debug\Palindrome_program.exe
+D:\c#project\c#-program\Palindrome_program\Palindrome_program\obj\Debug\Palindrome_program.pdb

@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\bin\Debug\Sealed_Inheritance.exe.config
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\bin\Debug\Sealed_Inheritance.exe
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\bin\Debug\Sealed_Inheritance.pdb
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\obj\Debug\Sealed_Inheritance.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\obj\Debug\Sealed_Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\obj\Debug\Sealed_Inheritance.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\obj\Debug\Sealed_Inheritance.exe
+D:\c#project\c#-program\Sealed_Inheritance\Sealed_Inheritance\obj\Debug\Sealed_Inheritance.pdb

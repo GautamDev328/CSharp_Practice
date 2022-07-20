@@ -1,0 +1,8 @@
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\bin\Debug\FloatAdditonNumber.exe.config
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\bin\Debug\FloatAdditonNumber.exe
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\bin\Debug\FloatAdditonNumber.pdb
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\obj\Debug\FloatAdditonNumber.csproj.AssemblyReference.cache
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\obj\Debug\FloatAdditonNumber.csproj.SuggestedBindingRedirects.cache
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\obj\Debug\FloatAdditonNumber.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\obj\Debug\FloatAdditonNumber.exe
+F:\c#-program(2019)\FloatAdditonNumber\FloatAdditonNumber\obj\Debug\FloatAdditonNumber.pdb

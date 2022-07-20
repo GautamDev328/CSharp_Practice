@@ -1,0 +1,3 @@
+D:\c#project\DisplayObjectclassprogram\DisplayObjectclassprogram\obj\Debug\DisplayObjectclassprogram.csproj.AssemblyReference.cache
+D:\c#project\DisplayObjectclassprogram\DisplayObjectclassprogram\obj\Debug\DisplayObjectclassprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\DisplayObjectclassprogram\DisplayObjectclassprogram\obj\Debug\DisplayObjectclassprogram.csproj.CoreCompileInputs.cache

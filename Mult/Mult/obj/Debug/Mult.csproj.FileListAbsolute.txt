@@ -1,0 +1,8 @@
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\bin\Debug\Mult.exe.config
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\bin\Debug\Mult.exe
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\bin\Debug\Mult.pdb
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\obj\Debug\Mult.csproj.AssemblyReference.cache
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\obj\Debug\Mult.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\obj\Debug\Mult.csproj.CoreCompileInputs.cache
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\obj\Debug\Mult.exe
+C:\Users\coolg\source\repos\GautamDev\Mult\Mult\obj\Debug\Mult.pdb

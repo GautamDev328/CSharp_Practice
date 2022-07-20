@@ -1,0 +1,3 @@
+D:\c#project\c#-program\protected Program\protected Program\obj\Debug\protected Program.csproj.AssemblyReference.cache
+D:\c#project\c#-program\protected Program\protected Program\obj\Debug\protected Program.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\protected Program\protected Program\obj\Debug\protected Program.csproj.CoreCompileInputs.cache

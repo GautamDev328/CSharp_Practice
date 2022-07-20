@@ -1,0 +1,8 @@
+D:\c#project\c#-program\constructor_program\constructor_program\obj\Debug\constructor_program.csproj.AssemblyReference.cache
+D:\c#project\c#-program\constructor_program\constructor_program\obj\Debug\constructor_program.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\constructor_program\constructor_program\obj\Debug\constructor_program.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\constructor_program\constructor_program\bin\Debug\constructor_program.exe.config
+D:\c#project\c#-program\constructor_program\constructor_program\bin\Debug\constructor_program.exe
+D:\c#project\c#-program\constructor_program\constructor_program\bin\Debug\constructor_program.pdb
+D:\c#project\c#-program\constructor_program\constructor_program\obj\Debug\constructor_program.exe
+D:\c#project\c#-program\constructor_program\constructor_program\obj\Debug\constructor_program.pdb

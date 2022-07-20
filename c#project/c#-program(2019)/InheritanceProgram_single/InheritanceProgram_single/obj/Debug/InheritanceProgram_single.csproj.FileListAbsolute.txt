@@ -1,0 +1,8 @@
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\bin\Debug\InheritanceProgram_single.exe.config
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\bin\Debug\InheritanceProgram_single.exe
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\bin\Debug\InheritanceProgram_single.pdb
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\obj\Debug\InheritanceProgram_single.csproj.AssemblyReference.cache
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\obj\Debug\InheritanceProgram_single.csproj.SuggestedBindingRedirects.cache
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\obj\Debug\InheritanceProgram_single.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\obj\Debug\InheritanceProgram_single.exe
+F:\c#-program(2019)\InheritanceProgram_single\InheritanceProgram_single\obj\Debug\InheritanceProgram_single.pdb

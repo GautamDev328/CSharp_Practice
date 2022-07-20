@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\bin\Debug\Twodigitprogram_user.exe.config
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\bin\Debug\Twodigitprogram_user.exe
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\bin\Debug\Twodigitprogram_user.pdb
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\obj\Debug\Twodigitprogram_user.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\obj\Debug\Twodigitprogram_user.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\obj\Debug\Twodigitprogram_user.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\obj\Debug\Twodigitprogram_user.exe
+D:\c#project\c#-program\Twodigitprogram_user\Twodigitprogram_user\obj\Debug\Twodigitprogram_user.pdb

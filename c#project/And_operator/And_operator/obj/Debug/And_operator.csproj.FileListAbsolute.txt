@@ -1,0 +1,8 @@
+D:\c#project\And_operator\And_operator\bin\Debug\And_operator.exe.config
+D:\c#project\And_operator\And_operator\bin\Debug\And_operator.exe
+D:\c#project\And_operator\And_operator\bin\Debug\And_operator.pdb
+D:\c#project\And_operator\And_operator\obj\Debug\And_operator.csproj.AssemblyReference.cache
+D:\c#project\And_operator\And_operator\obj\Debug\And_operator.csproj.SuggestedBindingRedirects.cache
+D:\c#project\And_operator\And_operator\obj\Debug\And_operator.csproj.CoreCompileInputs.cache
+D:\c#project\And_operator\And_operator\obj\Debug\And_operator.exe
+D:\c#project\And_operator\And_operator\obj\Debug\And_operator.pdb

@@ -1,0 +1,8 @@
+D:\c#project\c#-program\enum_Month\enum_Month\obj\Debug\enum_Month.csproj.AssemblyReference.cache
+D:\c#project\c#-program\enum_Month\enum_Month\obj\Debug\enum_Month.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\enum_Month\enum_Month\obj\Debug\enum_Month.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\enum_Month\enum_Month\bin\Debug\enum_Month.exe.config
+D:\c#project\c#-program\enum_Month\enum_Month\bin\Debug\enum_Month.exe
+D:\c#project\c#-program\enum_Month\enum_Month\bin\Debug\enum_Month.pdb
+D:\c#project\c#-program\enum_Month\enum_Month\obj\Debug\enum_Month.exe
+D:\c#project\c#-program\enum_Month\enum_Month\obj\Debug\enum_Month.pdb

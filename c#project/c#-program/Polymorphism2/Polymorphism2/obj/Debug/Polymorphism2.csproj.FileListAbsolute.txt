@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe.config
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.pdb
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.exe
+D:\c#project\c#-program\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.pdb

@@ -1,0 +1,8 @@
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\bin\Debug\ReverseProgram.exe.config
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\bin\Debug\ReverseProgram.exe
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\bin\Debug\ReverseProgram.pdb
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.csproj.AssemblyReference.cache
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.exe
+D:\c#project\c#-program\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.pdb

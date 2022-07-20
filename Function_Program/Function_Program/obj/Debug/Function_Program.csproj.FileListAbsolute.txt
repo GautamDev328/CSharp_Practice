@@ -1,0 +1,8 @@
+D:\c#project\Function_Program\Function_Program\obj\Debug\Function_Program.csproj.AssemblyReference.cache
+D:\c#project\Function_Program\Function_Program\obj\Debug\Function_Program.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Function_Program\Function_Program\obj\Debug\Function_Program.csproj.CoreCompileInputs.cache
+D:\c#project\Function_Program\Function_Program\bin\Debug\Function_Program.exe.config
+D:\c#project\Function_Program\Function_Program\bin\Debug\Function_Program.exe
+D:\c#project\Function_Program\Function_Program\bin\Debug\Function_Program.pdb
+D:\c#project\Function_Program\Function_Program\obj\Debug\Function_Program.exe
+D:\c#project\Function_Program\Function_Program\obj\Debug\Function_Program.pdb

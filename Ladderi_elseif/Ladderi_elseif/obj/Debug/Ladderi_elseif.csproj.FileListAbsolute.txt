@@ -1,0 +1,8 @@
+D:\c#project\Ladderi_elseif\Ladderi_elseif\obj\Debug\Ladderi_elseif.csproj.AssemblyReference.cache
+D:\c#project\Ladderi_elseif\Ladderi_elseif\obj\Debug\Ladderi_elseif.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Ladderi_elseif\Ladderi_elseif\obj\Debug\Ladderi_elseif.csproj.CoreCompileInputs.cache
+D:\c#project\Ladderi_elseif\Ladderi_elseif\bin\Debug\Ladderi_elseif.exe.config
+D:\c#project\Ladderi_elseif\Ladderi_elseif\bin\Debug\Ladderi_elseif.exe
+D:\c#project\Ladderi_elseif\Ladderi_elseif\bin\Debug\Ladderi_elseif.pdb
+D:\c#project\Ladderi_elseif\Ladderi_elseif\obj\Debug\Ladderi_elseif.exe
+D:\c#project\Ladderi_elseif\Ladderi_elseif\obj\Debug\Ladderi_elseif.pdb

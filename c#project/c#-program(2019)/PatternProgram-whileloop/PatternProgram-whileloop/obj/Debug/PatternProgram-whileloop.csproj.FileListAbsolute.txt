@@ -1,0 +1,8 @@
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\bin\Debug\PatternProgram-whileloop.exe.config
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\bin\Debug\PatternProgram-whileloop.exe
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\bin\Debug\PatternProgram-whileloop.pdb
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\obj\Debug\PatternProgram-whileloop.csproj.AssemblyReference.cache
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\obj\Debug\PatternProgram-whileloop.csproj.SuggestedBindingRedirects.cache
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\obj\Debug\PatternProgram-whileloop.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\obj\Debug\PatternProgram-whileloop.exe
+F:\c#-program(2019)\PatternProgram-whileloop\PatternProgram-whileloop\obj\Debug\PatternProgram-whileloop.pdb

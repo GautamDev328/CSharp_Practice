@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Static\Static\bin\Debug\Static.exe.config
+D:\c#project\c#-program\Static\Static\bin\Debug\Static.exe
+D:\c#project\c#-program\Static\Static\bin\Debug\Static.pdb
+D:\c#project\c#-program\Static\Static\obj\Debug\Zero.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Static\Static\obj\Debug\Zero.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Static\Static\obj\Debug\Zero.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Static\Static\obj\Debug\Static.exe
+D:\c#project\c#-program\Static\Static\obj\Debug\Static.pdb

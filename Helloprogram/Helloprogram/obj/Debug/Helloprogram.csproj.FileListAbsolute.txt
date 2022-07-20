@@ -1,0 +1,8 @@
+D:\c#project\Helloprogram\Helloprogram\bin\Debug\Helloprogram.exe.config
+D:\c#project\Helloprogram\Helloprogram\bin\Debug\Helloprogram.exe
+D:\c#project\Helloprogram\Helloprogram\bin\Debug\Helloprogram.pdb
+D:\c#project\Helloprogram\Helloprogram\obj\Debug\Helloprogram.csproj.AssemblyReference.cache
+D:\c#project\Helloprogram\Helloprogram\obj\Debug\Helloprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Helloprogram\Helloprogram\obj\Debug\Helloprogram.csproj.CoreCompileInputs.cache
+D:\c#project\Helloprogram\Helloprogram\obj\Debug\Helloprogram.exe
+D:\c#project\Helloprogram\Helloprogram\obj\Debug\Helloprogram.pdb

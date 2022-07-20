@@ -1,0 +1,8 @@
+C:\c#project\number\number\bin\Debug\number.exe.config
+C:\c#project\number\number\bin\Debug\number.exe
+C:\c#project\number\number\bin\Debug\number.pdb
+C:\c#project\number\number\obj\Debug\number.csproj.AssemblyReference.cache
+C:\c#project\number\number\obj\Debug\number.csproj.SuggestedBindingRedirects.cache
+C:\c#project\number\number\obj\Debug\number.csproj.CoreCompileInputs.cache
+C:\c#project\number\number\obj\Debug\number.exe
+C:\c#project\number\number\obj\Debug\number.pdb

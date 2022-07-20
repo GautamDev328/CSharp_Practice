@@ -1,0 +1,3 @@
+D:\c#project\Internet\Internet\obj\Debug\Internet.csproj.AssemblyReference.cache
+D:\c#project\Internet\Internet\obj\Debug\Internet.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Internet\Internet\obj\Debug\Internet.csproj.CoreCompileInputs.cache

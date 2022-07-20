@@ -1,0 +1,8 @@
+D:\c#project\callbyvalueprogram\callbyvalueprogram\bin\Debug\callbyvalueprogram.exe.config
+D:\c#project\callbyvalueprogram\callbyvalueprogram\bin\Debug\callbyvalueprogram.exe
+D:\c#project\callbyvalueprogram\callbyvalueprogram\bin\Debug\callbyvalueprogram.pdb
+D:\c#project\callbyvalueprogram\callbyvalueprogram\obj\Debug\callbyvalueprogram.csproj.AssemblyReference.cache
+D:\c#project\callbyvalueprogram\callbyvalueprogram\obj\Debug\callbyvalueprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\callbyvalueprogram\callbyvalueprogram\obj\Debug\callbyvalueprogram.csproj.CoreCompileInputs.cache
+D:\c#project\callbyvalueprogram\callbyvalueprogram\obj\Debug\callbyvalueprogram.exe
+D:\c#project\callbyvalueprogram\callbyvalueprogram\obj\Debug\callbyvalueprogram.pdb

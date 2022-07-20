@@ -1,0 +1,8 @@
+F:\c#-program(2019)\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+F:\c#-program(2019)\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+F:\c#-program(2019)\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb
+F:\c#-program(2019)\NestedLoop\NestedLoop\obj\Debug\NestedLoop.csproj.AssemblyReference.cache
+F:\c#-program(2019)\NestedLoop\NestedLoop\obj\Debug\NestedLoop.csproj.SuggestedBindingRedirects.cache
+F:\c#-program(2019)\NestedLoop\NestedLoop\obj\Debug\NestedLoop.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+F:\c#-program(2019)\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb

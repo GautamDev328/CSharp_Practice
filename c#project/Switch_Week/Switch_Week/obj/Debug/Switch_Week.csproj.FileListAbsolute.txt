@@ -1,0 +1,8 @@
+D:\c#project\Switch_Week\Switch_Week\bin\Debug\Switch_Week.exe.config
+D:\c#project\Switch_Week\Switch_Week\bin\Debug\Switch_Week.exe
+D:\c#project\Switch_Week\Switch_Week\bin\Debug\Switch_Week.pdb
+D:\c#project\Switch_Week\Switch_Week\obj\Debug\Switch_Week.csproj.AssemblyReference.cache
+D:\c#project\Switch_Week\Switch_Week\obj\Debug\Switch_Week.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Switch_Week\Switch_Week\obj\Debug\Switch_Week.csproj.CoreCompileInputs.cache
+D:\c#project\Switch_Week\Switch_Week\obj\Debug\Switch_Week.exe
+D:\c#project\Switch_Week\Switch_Week\obj\Debug\Switch_Week.pdb

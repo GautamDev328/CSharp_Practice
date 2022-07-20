@@ -1,0 +1,3 @@
+D:\c#project\Gotoprogram\Gotoprogram\obj\Debug\Gotoprogram.csproj.AssemblyReference.cache
+D:\c#project\Gotoprogram\Gotoprogram\obj\Debug\Gotoprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Gotoprogram\Gotoprogram\obj\Debug\Gotoprogram.csproj.CoreCompileInputs.cache

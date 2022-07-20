@@ -1,0 +1,8 @@
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\bin\Debug\Internet.exe.config
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\bin\Debug\Internet.exe
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\bin\Debug\Internet.pdb
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\obj\Debug\Internet.csproj.AssemblyReference.cache
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\obj\Debug\Internet.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\obj\Debug\Internet.csproj.CoreCompileInputs.cache
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\obj\Debug\Internet.exe
+C:\Users\coolg\source\repos\NewRepo\c#project\c#-program(2019)\Internet\Internet\obj\Debug\Internet.pdb

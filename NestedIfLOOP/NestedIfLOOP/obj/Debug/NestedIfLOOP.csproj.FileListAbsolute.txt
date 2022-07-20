@@ -1,0 +1,8 @@
+D:\c#project\NestedIfLOOP\NestedIfLOOP\bin\Debug\NestedIfLOOP.exe.config
+D:\c#project\NestedIfLOOP\NestedIfLOOP\bin\Debug\NestedIfLOOP.exe
+D:\c#project\NestedIfLOOP\NestedIfLOOP\bin\Debug\NestedIfLOOP.pdb
+D:\c#project\NestedIfLOOP\NestedIfLOOP\obj\Debug\NestedIfLOOP.csproj.AssemblyReference.cache
+D:\c#project\NestedIfLOOP\NestedIfLOOP\obj\Debug\NestedIfLOOP.csproj.SuggestedBindingRedirects.cache
+D:\c#project\NestedIfLOOP\NestedIfLOOP\obj\Debug\NestedIfLOOP.csproj.CoreCompileInputs.cache
+D:\c#project\NestedIfLOOP\NestedIfLOOP\obj\Debug\NestedIfLOOP.exe
+D:\c#project\NestedIfLOOP\NestedIfLOOP\obj\Debug\NestedIfLOOP.pdb

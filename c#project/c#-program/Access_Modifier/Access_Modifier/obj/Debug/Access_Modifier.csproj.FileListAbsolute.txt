@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\bin\Debug\Access_Modifier.exe.config
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\bin\Debug\Access_Modifier.exe
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\bin\Debug\Access_Modifier.pdb
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.exe
+D:\c#project\c#-program\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.pdb

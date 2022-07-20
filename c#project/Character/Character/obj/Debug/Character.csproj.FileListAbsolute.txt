@@ -1,0 +1,3 @@
+D:\c#project\Character\Character\obj\Debug\Character.csproj.AssemblyReference.cache
+D:\c#project\Character\Character\obj\Debug\Character.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Character\Character\obj\Debug\Character.csproj.CoreCompileInputs.cache

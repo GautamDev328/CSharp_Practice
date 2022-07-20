@@ -1,0 +1,8 @@
+F:\c#-program(2019)\Even_odd\Even_odd\bin\Debug\Even_odd.exe.config
+F:\c#-program(2019)\Even_odd\Even_odd\bin\Debug\Even_odd.exe
+F:\c#-program(2019)\Even_odd\Even_odd\bin\Debug\Even_odd.pdb
+F:\c#-program(2019)\Even_odd\Even_odd\obj\Debug\Even_odd.csproj.AssemblyReference.cache
+F:\c#-program(2019)\Even_odd\Even_odd\obj\Debug\Even_odd.csproj.SuggestedBindingRedirects.cache
+F:\c#-program(2019)\Even_odd\Even_odd\obj\Debug\Even_odd.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\Even_odd\Even_odd\obj\Debug\Even_odd.exe
+F:\c#-program(2019)\Even_odd\Even_odd\obj\Debug\Even_odd.pdb

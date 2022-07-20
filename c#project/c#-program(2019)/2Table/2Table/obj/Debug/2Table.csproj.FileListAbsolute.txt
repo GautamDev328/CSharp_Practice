@@ -1,0 +1,8 @@
+F:\c#-program(2019)\2Table\2Table\obj\Debug\2Table.csproj.AssemblyReference.cache
+F:\c#-program(2019)\2Table\2Table\obj\Debug\2Table.csproj.SuggestedBindingRedirects.cache
+F:\c#-program(2019)\2Table\2Table\obj\Debug\2Table.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\2Table\2Table\bin\Debug\2Table.exe.config
+F:\c#-program(2019)\2Table\2Table\bin\Debug\2Table.exe
+F:\c#-program(2019)\2Table\2Table\bin\Debug\2Table.pdb
+F:\c#-program(2019)\2Table\2Table\obj\Debug\2Table.exe
+F:\c#-program(2019)\2Table\2Table\obj\Debug\2Table.pdb

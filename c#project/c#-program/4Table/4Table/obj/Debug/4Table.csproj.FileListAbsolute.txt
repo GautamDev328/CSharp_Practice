@@ -1,0 +1,8 @@
+D:\c#project\c#-program\4Table\4Table\bin\Debug\4Table.exe.config
+D:\c#project\c#-program\4Table\4Table\bin\Debug\4Table.exe
+D:\c#project\c#-program\4Table\4Table\bin\Debug\4Table.pdb
+D:\c#project\c#-program\4Table\4Table\obj\Debug\4Table.csproj.AssemblyReference.cache
+D:\c#project\c#-program\4Table\4Table\obj\Debug\4Table.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\4Table\4Table\obj\Debug\4Table.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\4Table\4Table\obj\Debug\4Table.exe
+D:\c#project\c#-program\4Table\4Table\obj\Debug\4Table.pdb

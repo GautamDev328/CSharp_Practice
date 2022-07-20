@@ -1,0 +1,8 @@
+D:\c#project\Advance\Advance\obj\Debug\Advance.csproj.AssemblyReference.cache
+D:\c#project\Advance\Advance\obj\Debug\Advance.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Advance\Advance\obj\Debug\Advance.csproj.CoreCompileInputs.cache
+D:\c#project\Advance\Advance\bin\Debug\Advance.exe.config
+D:\c#project\Advance\Advance\bin\Debug\Advance.exe
+D:\c#project\Advance\Advance\bin\Debug\Advance.pdb
+D:\c#project\Advance\Advance\obj\Debug\Advance.exe
+D:\c#project\Advance\Advance\obj\Debug\Advance.pdb

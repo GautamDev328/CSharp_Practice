@@ -1,0 +1,8 @@
+D:\c#project\breakprogram\breakprogram\bin\Debug\breakprogram.exe.config
+D:\c#project\breakprogram\breakprogram\bin\Debug\breakprogram.exe
+D:\c#project\breakprogram\breakprogram\bin\Debug\breakprogram.pdb
+D:\c#project\breakprogram\breakprogram\obj\Debug\breakprogram.csproj.AssemblyReference.cache
+D:\c#project\breakprogram\breakprogram\obj\Debug\breakprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\breakprogram\breakprogram\obj\Debug\breakprogram.csproj.CoreCompileInputs.cache
+D:\c#project\breakprogram\breakprogram\obj\Debug\breakprogram.exe
+D:\c#project\breakprogram\breakprogram\obj\Debug\breakprogram.pdb

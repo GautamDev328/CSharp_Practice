@@ -1,0 +1,8 @@
+D:\c#project\SwitchCase_Month\SwitchCase_Month\obj\Debug\SwitchCase_Month.csproj.AssemblyReference.cache
+D:\c#project\SwitchCase_Month\SwitchCase_Month\obj\Debug\SwitchCase_Month.csproj.SuggestedBindingRedirects.cache
+D:\c#project\SwitchCase_Month\SwitchCase_Month\obj\Debug\SwitchCase_Month.csproj.CoreCompileInputs.cache
+D:\c#project\SwitchCase_Month\SwitchCase_Month\bin\Debug\SwitchCase_Month.exe.config
+D:\c#project\SwitchCase_Month\SwitchCase_Month\bin\Debug\SwitchCase_Month.exe
+D:\c#project\SwitchCase_Month\SwitchCase_Month\bin\Debug\SwitchCase_Month.pdb
+D:\c#project\SwitchCase_Month\SwitchCase_Month\obj\Debug\SwitchCase_Month.exe
+D:\c#project\SwitchCase_Month\SwitchCase_Month\obj\Debug\SwitchCase_Month.pdb

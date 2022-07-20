@@ -1,0 +1,8 @@
+D:\c#project\OR_Operator\OR_Operator\bin\Debug\OR_Operator.exe.config
+D:\c#project\OR_Operator\OR_Operator\bin\Debug\OR_Operator.exe
+D:\c#project\OR_Operator\OR_Operator\bin\Debug\OR_Operator.pdb
+D:\c#project\OR_Operator\OR_Operator\obj\Debug\OR_Operator.csproj.AssemblyReference.cache
+D:\c#project\OR_Operator\OR_Operator\obj\Debug\OR_Operator.csproj.SuggestedBindingRedirects.cache
+D:\c#project\OR_Operator\OR_Operator\obj\Debug\OR_Operator.csproj.CoreCompileInputs.cache
+D:\c#project\OR_Operator\OR_Operator\obj\Debug\OR_Operator.exe
+D:\c#project\OR_Operator\OR_Operator\obj\Debug\OR_Operator.pdb

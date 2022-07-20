@@ -1,0 +1,8 @@
+D:\c#project\New\New\bin\Debug\New.exe.config
+D:\c#project\New\New\bin\Debug\New.exe
+D:\c#project\New\New\bin\Debug\New.pdb
+D:\c#project\New\New\obj\Debug\New.csproj.AssemblyReference.cache
+D:\c#project\New\New\obj\Debug\New.csproj.SuggestedBindingRedirects.cache
+D:\c#project\New\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+D:\c#project\New\New\obj\Debug\New.exe
+D:\c#project\New\New\obj\Debug\New.pdb

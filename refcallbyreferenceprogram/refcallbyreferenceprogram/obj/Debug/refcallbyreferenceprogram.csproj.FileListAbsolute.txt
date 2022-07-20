@@ -1,0 +1,8 @@
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\bin\Debug\refcallbyreferenceprogram.exe.config
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\bin\Debug\refcallbyreferenceprogram.exe
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\bin\Debug\refcallbyreferenceprogram.pdb
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\obj\Debug\refcallbyreferenceprogram.csproj.AssemblyReference.cache
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\obj\Debug\refcallbyreferenceprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\obj\Debug\refcallbyreferenceprogram.csproj.CoreCompileInputs.cache
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\obj\Debug\refcallbyreferenceprogram.exe
+D:\c#project\refcallbyreferenceprogram\refcallbyreferenceprogram\obj\Debug\refcallbyreferenceprogram.pdb

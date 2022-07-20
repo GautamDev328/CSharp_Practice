@@ -1,0 +1,7 @@
+F:\c#-program(2019)\Application\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+F:\c#-program(2019)\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+F:\c#-program(2019)\Application\Application\bin\Debug\Application.exe.config
+F:\c#-program(2019)\Application\Application\bin\Debug\Application.exe
+F:\c#-program(2019)\Application\Application\bin\Debug\Application.pdb
+F:\c#-program(2019)\Application\Application\obj\Debug\Application.exe
+F:\c#-program(2019)\Application\Application\obj\Debug\Application.pdb

@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\bin\Debug\Multilabel_inheritance.exe.config
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\bin\Debug\Multilabel_inheritance.exe
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\bin\Debug\Multilabel_inheritance.pdb
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\obj\Debug\Multilabel_inheritance.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\obj\Debug\Multilabel_inheritance.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\obj\Debug\Multilabel_inheritance.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\obj\Debug\Multilabel_inheritance.exe
+D:\c#project\c#-program\Multilabel_inheritance\Multilabel_inheritance\obj\Debug\Multilabel_inheritance.pdb

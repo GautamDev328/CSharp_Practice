@@ -1,0 +1,8 @@
+D:\c#project\comparison\comparison\bin\Debug\comparison.exe.config
+D:\c#project\comparison\comparison\bin\Debug\comparison.exe
+D:\c#project\comparison\comparison\bin\Debug\comparison.pdb
+D:\c#project\comparison\comparison\obj\Debug\comparison.csproj.AssemblyReference.cache
+D:\c#project\comparison\comparison\obj\Debug\comparison.csproj.SuggestedBindingRedirects.cache
+D:\c#project\comparison\comparison\obj\Debug\comparison.csproj.CoreCompileInputs.cache
+D:\c#project\comparison\comparison\obj\Debug\comparison.exe
+D:\c#project\comparison\comparison\obj\Debug\comparison.pdb

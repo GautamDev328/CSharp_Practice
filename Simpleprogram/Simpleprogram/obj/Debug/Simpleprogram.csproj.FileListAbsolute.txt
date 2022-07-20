@@ -1,0 +1,8 @@
+D:\c#project\Simpleprogram\Simpleprogram\bin\Debug\Simpleprogram.exe.config
+D:\c#project\Simpleprogram\Simpleprogram\bin\Debug\Simpleprogram.exe
+D:\c#project\Simpleprogram\Simpleprogram\bin\Debug\Simpleprogram.pdb
+D:\c#project\Simpleprogram\Simpleprogram\obj\Debug\Simpleprogram.csproj.AssemblyReference.cache
+D:\c#project\Simpleprogram\Simpleprogram\obj\Debug\Simpleprogram.csproj.SuggestedBindingRedirects.cache
+D:\c#project\Simpleprogram\Simpleprogram\obj\Debug\Simpleprogram.csproj.CoreCompileInputs.cache
+D:\c#project\Simpleprogram\Simpleprogram\obj\Debug\Simpleprogram.exe
+D:\c#project\Simpleprogram\Simpleprogram\obj\Debug\Simpleprogram.pdb

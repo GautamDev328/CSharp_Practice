@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\bin\Debug\Fibonacci_Triangle.exe.config
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\bin\Debug\Fibonacci_Triangle.exe
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\bin\Debug\Fibonacci_Triangle.pdb
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.exe
+D:\c#project\c#-program\Fibonacci_Triangle\Fibonacci_Triangle\obj\Debug\Fibonacci_Triangle.pdb

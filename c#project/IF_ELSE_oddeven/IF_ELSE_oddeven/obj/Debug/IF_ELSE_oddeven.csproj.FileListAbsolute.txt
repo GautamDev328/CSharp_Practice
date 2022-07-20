@@ -1,0 +1,8 @@
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\bin\Debug\IF_ELSE_oddeven.exe.config
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\bin\Debug\IF_ELSE_oddeven.exe
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\bin\Debug\IF_ELSE_oddeven.pdb
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\obj\Debug\IF_ELSE_oddeven.csproj.AssemblyReference.cache
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\obj\Debug\IF_ELSE_oddeven.csproj.SuggestedBindingRedirects.cache
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\obj\Debug\IF_ELSE_oddeven.csproj.CoreCompileInputs.cache
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\obj\Debug\IF_ELSE_oddeven.exe
+D:\c#project\IF_ELSE_oddeven\IF_ELSE_oddeven\obj\Debug\IF_ELSE_oddeven.pdb

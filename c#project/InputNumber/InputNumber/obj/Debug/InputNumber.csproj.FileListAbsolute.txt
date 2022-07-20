@@ -1,0 +1,8 @@
+D:\c#project\InputNumber\InputNumber\bin\Debug\InputNumber.exe.config
+D:\c#project\InputNumber\InputNumber\bin\Debug\InputNumber.exe
+D:\c#project\InputNumber\InputNumber\bin\Debug\InputNumber.pdb
+D:\c#project\InputNumber\InputNumber\obj\Debug\InputNumber.csproj.AssemblyReference.cache
+D:\c#project\InputNumber\InputNumber\obj\Debug\InputNumber.csproj.SuggestedBindingRedirects.cache
+D:\c#project\InputNumber\InputNumber\obj\Debug\InputNumber.csproj.CoreCompileInputs.cache
+D:\c#project\InputNumber\InputNumber\obj\Debug\InputNumber.exe
+D:\c#project\InputNumber\InputNumber\obj\Debug\InputNumber.pdb

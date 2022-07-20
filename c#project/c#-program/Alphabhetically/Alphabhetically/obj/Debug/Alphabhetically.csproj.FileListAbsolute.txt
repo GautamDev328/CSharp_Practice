@@ -1,0 +1,8 @@
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\bin\Debug\Alphabhetically.exe.config
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\bin\Debug\Alphabhetically.exe
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\bin\Debug\Alphabhetically.pdb
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\obj\Debug\Alphabhetically.csproj.AssemblyReference.cache
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\obj\Debug\Alphabhetically.csproj.SuggestedBindingRedirects.cache
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\obj\Debug\Alphabhetically.csproj.CoreCompileInputs.cache
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\obj\Debug\Alphabhetically.exe
+D:\c#project\c#-program\Alphabhetically\Alphabhetically\obj\Debug\Alphabhetically.pdb
