@@ -1,0 +1,8 @@
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\bin\Debug\Abstractclass1.exe.config
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\bin\Debug\Abstractclass1.exe
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\bin\Debug\Abstractclass1.pdb
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\obj\Debug\Abstractclass1.csproj.AssemblyReference.cache
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\obj\Debug\Abstractclass1.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\obj\Debug\Abstractclass1.csproj.CoreCompileInputs.cache
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\obj\Debug\Abstractclass1.exe
+C:\Users\coolg\source\repos\GautamDev328\Abstractclass1\Abstractclass1\obj\Debug\Abstractclass1.pdb
