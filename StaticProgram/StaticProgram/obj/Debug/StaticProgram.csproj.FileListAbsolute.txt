@@ -1,0 +1,8 @@
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\obj\Debug\StaticProgram.csproj.AssemblyReference.cache
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\obj\Debug\StaticProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\obj\Debug\StaticProgram.csproj.CoreCompileInputs.cache
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\bin\Debug\StaticProgram.exe.config
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\bin\Debug\StaticProgram.exe
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\bin\Debug\StaticProgram.pdb
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\obj\Debug\StaticProgram.exe
+C:\Users\coolg\source\repos\GautamDev328\StaticProgram\StaticProgram\obj\Debug\StaticProgram.pdb
