@@ -1,0 +1,8 @@
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\bin\Debug\copyconstructor.exe.config
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\bin\Debug\copyconstructor.exe
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\bin\Debug\copyconstructor.pdb
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\obj\Debug\copyconstructor.csproj.AssemblyReference.cache
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\obj\Debug\copyconstructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\obj\Debug\copyconstructor.csproj.CoreCompileInputs.cache
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\obj\Debug\copyconstructor.exe
+C:\Users\coolg\source\repos\GautamDev328\copyconstructor\copyconstructor\obj\Debug\copyconstructor.pdb
