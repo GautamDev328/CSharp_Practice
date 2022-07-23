@@ -6,27 +6,36 @@ using System.Threading.Tasks;
 
 namespace overloadingprogram2
 {
-    public  class Program
+    public class Program
     {
-        public void test()
+        public void test(int a)
         {
-            Console.WriteLine("Hello");
+
+            int b = ++a;
+            Console.WriteLine(b);
         }
-         void test(int a,int b)
+
+
+        public void test(int a, int b)
         {
-            Console.WriteLine("India");
+
+            int c = a + b;
+            Console.WriteLine(c);
 
         }
-         void test(int a, int b, string c)
+        public void test(int a, int b, int c)
         {
-            Console.WriteLine("Bharat");
+            int d = a + b + c;
+            Console.WriteLine(d);
         }
         static void Main()
         {
+            Console.WriteLine("Enter  a two number add in third party show the result:");
             Program p = new Program();
-            p.test();
-            p.test(0,1);
-            p.test(0,1,"gautamdev");
+            p.test(10);
+            p.test(0, 1);
+            p.test(12, 13, 21);
+            //   p.test(0,1,"gautamdev");
             Console.ReadLine();
         }
     }
