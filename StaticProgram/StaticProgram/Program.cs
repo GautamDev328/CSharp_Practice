@@ -12,6 +12,8 @@ namespace StaticProgram
         {
             Console.WriteLine("hello india");
         }
+         int x = 20;
+        
         static void sum()
         {
             Console.WriteLine("hi");
@@ -27,6 +29,7 @@ namespace StaticProgram
             Console.WriteLine("INDIA");
             Program.sum();
             Program.sum2();
+            Console.WriteLine(Program.x);
             Console.ReadLine();
            
 
