@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\bin\Debug\placeholdertableusingwhileloop.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\bin\Debug\placeholdertableusingwhileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\bin\Debug\placeholdertableusingwhileloop.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\obj\Debug\placeholdertableusingwhileloop.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\obj\Debug\placeholdertableusingwhileloop.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\obj\Debug\placeholdertableusingwhileloop.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\obj\Debug\placeholdertableusingwhileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\placeholdertableusingwhileloop\placeholdertableusingwhileloop\obj\Debug\placeholdertableusingwhileloop.pdb
