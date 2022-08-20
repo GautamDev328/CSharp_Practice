@@ -4,31 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UppercaseProgram
+namespace Table_using_whilellop
 {
     class Program
     {
-        static void upperchar()
-        {
-            string s1;
-            char ch;
-            Console.WriteLine("Enter string:");
-            s1 = Console.ReadLine();
-          int  l = s1.Length;
-            for ( int i = 0; i < l; i++)
-            {
-                ch = s1[i];
-                if (char.IsLower(ch))
-
-                    Console.Write(char.ToUpper(ch));
-
-                else
-                    Console.Write(ch);
-            }
-        }
         static void Main(string[] args)
         {
-           upperchar();
+            int ctrl = 1;
+            Console.WriteLine("Enter a number");
+            int num = int.Parse(Console.ReadLine());
+            while (ctrl < 10)
+            {
+                Console.WriteLine(num+"*"+ctrl+ " = "+ ctrl*num);
+
+                ctrl = ctrl + 1;
+
+            }
             Console.ReadLine();
         }
     }
