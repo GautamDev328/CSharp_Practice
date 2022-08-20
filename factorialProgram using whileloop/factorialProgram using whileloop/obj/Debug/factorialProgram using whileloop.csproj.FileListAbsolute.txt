@@ -1,0 +1,6 @@
+D:\gautam\factorialProgram using whileloop\factorialProgram using whileloop\bin\Debug\factorialProgram using whileloop.exe.config
+D:\gautam\factorialProgram using whileloop\factorialProgram using whileloop\bin\Debug\factorialProgram using whileloop.exe
+D:\gautam\factorialProgram using whileloop\factorialProgram using whileloop\bin\Debug\factorialProgram using whileloop.pdb
+D:\gautam\factorialProgram using whileloop\factorialProgram using whileloop\obj\Debug\factorialProgram using whileloop.csproj.CoreCompileInputs.cache
+D:\gautam\factorialProgram using whileloop\factorialProgram using whileloop\obj\Debug\factorialProgram using whileloop.exe
+D:\gautam\factorialProgram using whileloop\factorialProgram using whileloop\obj\Debug\factorialProgram using whileloop.pdb
