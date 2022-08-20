@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacciseires using While", "fibonacciseires using While\fibonacciseires using While.csproj", "{8385FD05-1D5A-4526-A3D3-930EE99897A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8385FD05-1D5A-4526-A3D3-930EE99897A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8385FD05-1D5A-4526-A3D3-930EE99897A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8385FD05-1D5A-4526-A3D3-930EE99897A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8385FD05-1D5A-4526-A3D3-930EE99897A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1176C8-53DB-4319-9E25-C314BA3E45E0}
+	EndGlobalSection
+EndGlobal
