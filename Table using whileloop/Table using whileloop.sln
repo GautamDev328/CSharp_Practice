@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table using whileloop", "Table using whileloop\Table using whileloop.csproj", "{3814E170-F73B-4AE4-91AD-688735CFBEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3814E170-F73B-4AE4-91AD-688735CFBEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3814E170-F73B-4AE4-91AD-688735CFBEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3814E170-F73B-4AE4-91AD-688735CFBEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3814E170-F73B-4AE4-91AD-688735CFBEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4030D4BE-95FE-4F71-BA97-74534034780D}
+	EndGlobalSection
+EndGlobal
