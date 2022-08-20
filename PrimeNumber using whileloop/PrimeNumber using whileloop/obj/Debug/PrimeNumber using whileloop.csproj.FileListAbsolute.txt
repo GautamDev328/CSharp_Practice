@@ -1,0 +1,7 @@
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\bin\Debug\PrimeNumber using whileloop.exe.config
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\bin\Debug\PrimeNumber using whileloop.exe
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\bin\Debug\PrimeNumber using whileloop.pdb
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\obj\Debug\PrimeNumber using whileloop.csproj.AssemblyReference.cache
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\obj\Debug\PrimeNumber using whileloop.csproj.CoreCompileInputs.cache
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\obj\Debug\PrimeNumber using whileloop.exe
+D:\gautam\PrimeNumber using whileloop\PrimeNumber using whileloop\obj\Debug\PrimeNumber using whileloop.pdb
