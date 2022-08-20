@@ -1,0 +1,7 @@
+D:\gautam\cube using whileloop\cube using whileloop\obj\Debug\cube using whileloop.csproj.CoreCompileInputs.cache
+D:\gautam\cube using whileloop\cube using whileloop\obj\Debug\cube using whileloop.csproj.AssemblyReference.cache
+D:\gautam\cube using whileloop\cube using whileloop\bin\Debug\cube using whileloop.exe.config
+D:\gautam\cube using whileloop\cube using whileloop\bin\Debug\cube using whileloop.exe
+D:\gautam\cube using whileloop\cube using whileloop\bin\Debug\cube using whileloop.pdb
+D:\gautam\cube using whileloop\cube using whileloop\obj\Debug\cube using whileloop.exe
+D:\gautam\cube using whileloop\cube using whileloop\obj\Debug\cube using whileloop.pdb
